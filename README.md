@@ -7,7 +7,8 @@ Acompanhando os códigos e os desenhos feitos no Fritzen, você pode realizar os
 2. Acionar um Push Button 
 3. Fazer leitura de códigos de um controle remoto 
 4. Enviar sinais Infravermelho para sua televisão 
-5. Carregar um HC-06 ou HC-05 para se comunicar com um SmarthPhone através de Bluetooth 
+5. Carregar um HC-06 ou HC-05 para se comunicar com um SmarthPhone através de Bluetooth
+6. Sensor de distância, que não faz parte do projeto Streaming Switch e por isso, não possui desenho no Fritzen ainda.
 
 <img class="alignnone size-full wp-image-3280" src="https://http2.mlstatic.com/microcontrolador-para-automaco-residencial-D_NQ_NP_128905-MLB25128378832_102016-O.jpg"          alt="Streaming Switch" width="748" height="498" />
 
